@@ -9,4 +9,9 @@ if numero % 2 == 0:
 else:
     resultado = "ímpar"
 # imprimir o resultado
+print(f"O número {numero} é {resultado}.")
+
+# ideias pra adicionar: looping pra seguir inserindo numeros; criar trava pra caso digite 0; criar menu para sair depois de receber o resultado
+
+
 
