@@ -30,7 +30,9 @@ while True:
                 # perguntar se quer repetir
                 repetir = input("\nDeseja verificar outro número? (s/n): ").lower()
                 if repetir != "s":
-                    break
+                    print("Saindo. Até logo!")
+                    exit()
+                    
                 # trava se for outro valor
             except ValueError:
                 print("Entrada inválida. Digite apenas números inteiros.")
