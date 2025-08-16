@@ -42,3 +42,6 @@ while True:
         break
     else:
         print("Opção inválida, tente novamente.")
+
+# melhorias futuras: criar funcao pra verficiar o numero; identificar cada tipo de erro de entrada; 
+# criar uma funcao pra receber a entrada; criar historico de consultas; craiar um menu mais visual.
